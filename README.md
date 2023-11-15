@@ -37,4 +37,22 @@ All enhanced by Algorand Blockchain, Proprietary Data Watermarking & Empowering 
    - Mechanisms for governance and decision-making within the marketplace.
    - Plans for future development and potential adjustments to the tokenomics model.
 
+---
+
+## Currently Incubator & Partnering with the Following:
+
+### - [NVIDIA Inception Program](https://www.nvidia.com/en-sg/startups/)
+
+![Alt text](image-2.png)
+
+
+### - [AWS StartUps Program](https://aws.amazon.com/startups)
+
+![Alt text](image-3.png)
+
+### - [Alchemy Ventures](https://www.alchemy.com/ventures)
+
+![Alt text](image-4.png)
+
+**(And many more following in the future...)**
 
