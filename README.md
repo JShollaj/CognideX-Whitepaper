@@ -16,9 +16,10 @@ All enhanced by Algorand Blockchain, Proprietary Data Watermarking & Empowering 
    - Overview of the marketplace and its unique selling points.
    - Key technological advancements used 
 
-2. [Find Any Data Through Advanced LLM](#2-tokenomics-overview)
-   - Purpose and functionality of the marketplace's token.
-   - Role of the token in the ecosystem (e.g., governance, transactions, rewards).
+2. [Find Any Data Through Advanced LLM](LLM.md)
+   - How we integrate LLM to find any data on the web.
+   - Unique recommender through chat interface.
+   - Integration with GPT4 Marketplace.
 
 3. [Monetize Your Personal Data](#3-token-distribution-and-allocation)
    - Detailed breakdown of token distribution (e.g., for users, developers, investors).
