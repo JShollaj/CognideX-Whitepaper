@@ -1,5 +1,5 @@
 
-![Alt text](<Cognidex White Large.png>)
+![Alt text](<Assets/Cognidex White Large.png>)
 
 ## **CognideX: A Decentralized Data Marketplace on Algorand**
 
@@ -17,11 +17,11 @@ All enhanced by Algorand Blockchain, Proprietary Data Watermarking & Empowering 
    - The role of Large Language Models in enhancing the marketplace.
    - Brief introduction to Algorand as the chosen blockchain platform.
 
-2. [Tokenomics Overview](#2-tokenomics-overview)
+2. [Find Any Data Through Advanced LLM](#2-tokenomics-overview)
    - Purpose and functionality of the marketplace's token.
    - Role of the token in the ecosystem (e.g., governance, transactions, rewards).
 
-3. [Token Distribution and Allocation](#3-token-distribution-and-allocation)
+3. [Monetize Your Personal Data Through](#3-token-distribution-and-allocation)
    - Detailed breakdown of token distribution (e.g., for users, developers, investors).
    - Explanation of allocation mechanisms and principles.
 
