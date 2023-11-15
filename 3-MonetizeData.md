@@ -14,6 +14,8 @@ Our platform provides a secure and innovative ecosystem for users to monetize th
    - **Access Control:** Smart Contract-Based Access Control (SC-RBAC) is utilized to regulate who can access the contributed data. Permissions are set and enforced by smart contracts, with terms predefined by data contributors.
    - **Data Verification:** Data samples are verified through a combination of automated processes and manual audits to ensure quality and relevance. This step is crucial for maintaining the integrity of the data marketplace.
 
+   ![Alt text](image-1.png)
+
 3. **Data Monetization:**
    - **Matching with Buyers:** Using our advanced LLM algorithms, we match the contributed data with potential buyers – businesses or researchers looking for specific datasets.
    - **Secure Transactions:** When a match is found, the transaction is facilitated by a smart contract on the blockchain, ensuring secure exchange of data and funds. The terms of the transaction, including price and data access, are encoded within the smart contract.
