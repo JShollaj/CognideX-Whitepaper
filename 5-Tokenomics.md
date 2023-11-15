@@ -111,6 +111,8 @@ Certainly! Here's the revised tokenomics example with markdown-compatible formul
 
 ### Governance and Adjustments
 
-- Contributors and token holders can vote on proposals to adjust the tokenomics model.
+Contributors and token holders can vote on proposals to adjust the tokenomics model.
 
----
+You can check the governance future proposal in [the following page](6-Governance.md) ⬅️
+
+
