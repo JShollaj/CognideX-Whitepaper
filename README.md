@@ -43,16 +43,16 @@ All enhanced by Algorand Blockchain, Proprietary Data Watermarking & Empowering 
 
 ### - [NVIDIA Inception Program](https://www.nvidia.com/en-sg/startups/)
 
-![Alt text](image-2.png)
+![NVIDIA](Assets/image-2.png)
 
 
 ### - [AWS StartUps Program](https://aws.amazon.com/startups)
 
-![Alt text](image-3.png)
+![AWS](Assets/image-3.png)
 
 ### - [Alchemy Ventures](https://www.alchemy.com/ventures)
 
-![Alt text](image-4.png)
+![Alchemy](Assets/image-4.png)
 
 **(And many more following in the future...)**
 
