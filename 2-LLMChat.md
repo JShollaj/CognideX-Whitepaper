@@ -42,6 +42,8 @@ To better enhance usability, we have integrated the current platform with GPT4 p
 
 Here users can search automatically any data derived from out platform in an easy and concise way.
 
+In a similar way, this will recommend to the user datasets based on the use case described, together with any given set of features (e.g. prices, size, date etc.)
+
 To access the latest version of our GPT, [click here](https://chat.openai.com/g/g-P2YNDHwTs-cognidex)
 
 *Note: You will need premium GPT to access the tool*
