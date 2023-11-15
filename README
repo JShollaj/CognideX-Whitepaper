@@ -6,7 +6,7 @@
 Below we represent the main sections for the whitepaper of the CognideX ecosystem.
 
 ### Table of Contents
-1. [Introduction](#1-introduction)
+1. [Introduction](Introduction.md)
    - Overview of the marketplace and its unique selling points.
    - The role of Large Language Models in enhancing the marketplace.
    - Brief introduction to Algorand as the chosen blockchain platform.
@@ -45,7 +45,7 @@ Below we represent the main sections for the whitepaper of the CognideX ecosyste
 8. [Conclusion](#8-conclusion)
    - Summary of the marketplace's potential impact and benefits.
    - Final thoughts on the integration of Large Language Models and Algorand.
-   
+
 9. [Appendices](#9-appendices)
    - Technical details, additional scenarios, and code examples.
    - References and further reading.
