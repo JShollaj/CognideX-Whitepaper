@@ -1,6 +1,15 @@
 # Monetize Your Personal Data
 
-Our platform provides a secure and innovative ecosystem for users to monetize their personal data. Leveraging blockchain technology and smart contracts, we ensure that data transactions are transparent, auditable, and in compliance with the highest standards of data governance.
+On a high level, we encourage and teach users how they can get access and upload data from big platforms they use on the daily basis and monetize their data. We provide necessary research and price benchmarks to inform rates through which they can expect to monetize their data based on their platform.
+
+   There are 2 ways in which users can monetize their data:
+      
+      a) Selling personal individual data (where they own 100% return)
+
+      b) Part of analytics report or contribution derived from data analysis
+
+   Before we explore Tokenomics in detail, we can see how the process will look like on a high level from the system architecture below.
+
 
 ## How It Works
 
@@ -41,5 +50,9 @@ In summary, our platform empowers users to safely and conveniently monetize thei
 
 ---
 
-This section provides an overview of the monetization process for personal data on your platform, explaining the mechanisms in place to ensure that the process is secure, compliant, and beneficial for the users.
+In the front-end, the user experience will be seamless, where users only have to worry about connecting their account/wallet and upload data while the platform takes care of the rest.
+
+Another integral part of the platform is the data analytics contributors - experts in data analytics/science who after being approved by the community can shape the data into insights in form of clean data, reports etc.
+
+For a high level overview of how they can interact with the platform can check [the following page](4-InsightsContributor.md) ⬅️
 
