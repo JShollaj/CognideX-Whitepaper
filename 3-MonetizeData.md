@@ -4,7 +4,7 @@ Our platform provides a secure and innovative ecosystem for users to monetize th
 
 ## How It Works
 
-![Architecture](image.png)
+![Alt text](Assets/image.png)
 
 1. **Data Contribution:**
    - **Know Your Client (KYC):** Users undergo a KYC process to ensure trust and compliance. During this phase, users provide necessary background information, which is securely stored and processed.
@@ -14,7 +14,7 @@ Our platform provides a secure and innovative ecosystem for users to monetize th
    - **Access Control:** Smart Contract-Based Access Control (SC-RBAC) is utilized to regulate who can access the contributed data. Permissions are set and enforced by smart contracts, with terms predefined by data contributors.
    - **Data Verification:** Data samples are verified through a combination of automated processes and manual audits to ensure quality and relevance. This step is crucial for maintaining the integrity of the data marketplace.
 
-   ![Alt text](image-1.png)
+  ![Alt text](Assets/image-1.png)
 
 3. **Data Monetization:**
    - **Matching with Buyers:** Using our advanced LLM algorithms, we match the contributed data with potential buyers – businesses or researchers looking for specific datasets.
