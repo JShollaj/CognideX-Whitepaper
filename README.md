@@ -12,7 +12,7 @@ All enhanced by Algorand Blockchain, Proprietary Data Watermarking & Empowering 
 ---
 
 ### Table of Contents
-1. [Introduction](Introduction.md)
+1. [Introduction](1.Introduction.md)
    - Overview of the marketplace and its unique selling points.
    - Key technological advancements used 
 
@@ -21,17 +21,15 @@ All enhanced by Algorand Blockchain, Proprietary Data Watermarking & Empowering 
    - Unique recommender through chat interface.
    - Integration with GPT4 Marketplace.
 
-3. [Monetize Your Personal Data](#3-token-distribution-and-allocation)
-   - Detailed breakdown of token distribution (e.g., for users, developers, investors).
-   - Explanation of allocation mechanisms and principles.
+3. [Monetize Your Personal Data](DDP.md)
+   - How decentralized data pools work.
+   - Security mechanisms and back end integrations.
 
-4. [Earn Through Contributing Insights](#4-scenario-based-explanation-of-tokenomics)
-   - Present a scenario similar to the one in the provided example, illustrating:
-     - Participant roles (data contributors, data analysts).
-     - Staking of tokens and data contribution.
-     - Voting on data value and price determination.
+4. [Earn Through Contributing Insights](#4-scenario-based-explanation-of-tokenomics)(DA.md)
+   - How users can apply and become a data analytics contributor in the platform.
+     - Explaining platform integration on a high level.
 
-6. [Implementation on Algorand](#6-implementation-on-algorand)
+6. [Deep Dive on Tokenomics](Tokenomics.md)
    - Overview of Algorand's features relevant to the marketplace.
    - Technical details of implementing the tokenomics on Algorand.
      - Smart contract functionality.
