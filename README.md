@@ -3,7 +3,13 @@
 
 ## **CognideX: A Decentralized Data Marketplace on Algorand**
 
-Below we represent the main sections for the whitepaper of the CognideX ecosystem.
+CognideX is a one stop for all data exchange platform.
+
+Here users can find any data available on the web, they can upload & monetize their data with our help or sign up as a Data Analytics provider and add their insights from the data pool available. 
+
+All enhanced by Algorand Blockchain, Proprietary Data Watermarking & Empowering Tokenomics assisted by AI & driven by the community.
+
+---
 
 ### Table of Contents
 1. [Introduction](Introduction.md)
