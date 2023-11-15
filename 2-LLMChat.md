@@ -36,12 +36,22 @@ Another development in progress is an LLM that maps datasets to potential use ca
 
 Our architecture aims to provide a seamless and secure experience for users, enabling them to interact with data in a more natural and intuitive way. As we continue to develop and refine our LLM capabilities, our platform remains at the forefront of innovation in the data marketplace domain.
 
----
+## GPT4 Integration & Plugin
 
-![Alt text](Assets/Algorand_Inc_Logo.jpg)
+To better enhance usability, we have integrated the current platform with GPT4 premium plugin and GPTs marketplace.
+
+Here users can search automatically any data derived from out platform in an easy and concise way.
+
+To access the latest version of our GPT, [click here](https://chat.openai.com/g/g-P2YNDHwTs-cognidex)
+
+*Note: You will need premium GPT to access the tool*
+
+
 
 ---
 ## Algorand Smart Contract Integration
+
+![Alt text](Assets/Algorand_Inc_Logo.jpg)
 
 To enhance the functionality and security of our data transactions, we are seamlessly integrating Algorand smart contracts within our LLM architecture, specifically in the transaction flow facilitated by the LLM Smart Assistant.
 
