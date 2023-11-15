@@ -26,6 +26,8 @@ Our platform provides a secure and innovative ecosystem for users to monetize th
    - **Data Pool Validation:** Data pools undergo validation to ensure they meet the platform's standards and compliance requirements.
    - **Regulatory Adherence:** The platform's architecture is designed to adhere to global data protection and privacy laws, providing users with the assurance that their data is managed responsibly.
 
+
+
 ## Benefits for Users
 
 - **Control and Ownership:** Users retain full control over their data and can set the terms under which it is accessed or used.
