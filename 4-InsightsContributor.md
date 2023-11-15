@@ -56,4 +56,4 @@ By participating in our platform, Data Analytics Specialists not only gain the o
 
 Now that we have a better understanding of the ecosystem is time to dig deeper in the Tokenomics surrounding all the contributing parties.
 
-You can check the tokenomics in [the following page](4-InsightsContributor.md) ⬅️
+You can check the tokenomics in [the following page](5-Tokenomics.md) ⬅️
