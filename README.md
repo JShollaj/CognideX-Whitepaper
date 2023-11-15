@@ -14,29 +14,21 @@ All enhanced by Algorand Blockchain, Proprietary Data Watermarking & Empowering 
 ### Table of Contents
 1. [Introduction](Introduction.md)
    - Overview of the marketplace and its unique selling points.
-   - The role of Large Language Models in enhancing the marketplace.
-   - Brief introduction to Algorand as the chosen blockchain platform.
+   - Key technological advancements used 
 
 2. [Find Any Data Through Advanced LLM](#2-tokenomics-overview)
    - Purpose and functionality of the marketplace's token.
    - Role of the token in the ecosystem (e.g., governance, transactions, rewards).
 
-3. [Monetize Your Personal Data Through](#3-token-distribution-and-allocation)
+3. [Monetize Your Personal Data](#3-token-distribution-and-allocation)
    - Detailed breakdown of token distribution (e.g., for users, developers, investors).
    - Explanation of allocation mechanisms and principles.
 
-4. [Scenario-Based Explanation of Tokenomics](#4-scenario-based-explanation-of-tokenomics)
+4. [Earn Through Contributing Insights](#4-scenario-based-explanation-of-tokenomics)
    - Present a scenario similar to the one in the provided example, illustrating:
      - Participant roles (data contributors, data analysts).
      - Staking of tokens and data contribution.
      - Voting on data value and price determination.
-
-5. [Detailed Tokenomics Mechanics](#5-detailed-tokenomics-mechanics)
-   - Step-by-Step Process:
-     - Weight Calculation: Explain the formula and process for calculating the weight of each contributor.
-     - Price Determination: Describe how the weighted median price vote is computed.
-     - Token Allocation: Detail the methodology for token allocation among data contributors and analysts.
-     - Provide specific examples and numbers to illustrate the process.
 
 6. [Implementation on Algorand](#6-implementation-on-algorand)
    - Overview of Algorand's features relevant to the marketplace.
@@ -52,6 +44,3 @@ All enhanced by Algorand Blockchain, Proprietary Data Watermarking & Empowering 
    - Summary of the marketplace's potential impact and benefits.
    - Final thoughts on the integration of Large Language Models and Algorand.
 
-9. [Appendices](#9-appendices)
-   - Technical details, additional scenarios, and code examples.
-   - References and further reading.
