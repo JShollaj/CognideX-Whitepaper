@@ -36,3 +36,5 @@ CognideX is envisioned as a transformative decentralized data marketplace, uniqu
 
 All these integrated together provide a unique platform which combines the latest innovations, smooth user experience and a fair way to monetize your data.
 
+➡️ [Click Here to see how we have integrated the LLM Layer!](2-LLMChat.md) 
+
