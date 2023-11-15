@@ -39,7 +39,7 @@ All enhanced by Algorand Blockchain, Proprietary Data Watermarking & Empowering 
 
 ---
 
-## Currently Incubator & Partnering with the Following:
+## Currently Part of Incubators & Partnering with the Following:
 
 ### - [NVIDIA Inception Program](https://www.nvidia.com/en-sg/startups/)
 
