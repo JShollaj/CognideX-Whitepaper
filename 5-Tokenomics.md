@@ -56,10 +56,6 @@ The tokenomics model is dynamic and governed by community consensus. Changes to 
 
 ---
 
-Certainly! Here's the revised tokenomics example with markdown-compatible formulas for inclusion in your `.md` file:
-
----
-
 ## Tokenomics Example with Markdown Formulas
 
 ### Data Listing
