@@ -43,3 +43,18 @@ To reward Data Analytics Specialists for providing high-quality insights and ana
 - **Community Contributor Award:** Specialists who consistently provide constructive feedback and support to others will receive 90 CDGX tokens per month.
 - **Collaboration Bonus:** For leading collaborative projects or initiatives within the community, a bonus of x CDGX tokens will be awarded per project.
 
+---
+
+# Incentive Mechanisms for Engagement
+
+
+
+### Objective
+To distribute CDGX tokens based on active participation in the platform, including data contribution, analysis, and community engagement.
+
+### Incentive Structure
+- **Holding Milestone Rewards:** Users holding CDGX tokens for more than 6 months without selling will receive a 5% bonus in tokens based on their average holding.
+- **Voting Rights Enhancement:** Token holders for more than a year will receive double voting rights in platform governance decisions.
+- **Revenue Sharing Program:** Users holding tokens for over 18 months will be eligible for a share in the platform's annual revenue, distributed as a percentage of their total token holding.
+
+
