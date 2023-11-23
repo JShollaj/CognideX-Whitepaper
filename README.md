@@ -37,6 +37,9 @@ All enhanced by Algorand Blockchain, Proprietary Data Watermarking & Empowering 
    - Mechanisms for governance and decision-making within the marketplace.
    - Plans for future development and potential adjustments to the tokenomics model.
 
+
+7=8. [Incentives](7-Incentives.md)
+   - Incentives for enhancing the adoption of CognideX
 ---
 
 ## Currently Part of Incubators & Partnering with the Following:
