@@ -19,9 +19,6 @@ To reward users for improving the LLM by providing high-quality, accurate, and d
 
 # 2. Incentive Mechanisms for Data Monetization with CDGX Tokens
 
-This document details the specific incentive mechanisms for data monetization on the CognideX platform. Rewards are given in CDGX tokens, the platform's official currency.
-
-## Data Quality Bonuses
 
 ### Objective
 To reward users for contributing high-quality and unique data, encouraging a higher standard of data on the platform.
@@ -34,4 +31,15 @@ To reward users for contributing high-quality and unique data, encouraging a hig
 
 ---
 
+# 3. Incentive Mechanisms for Insights Contribution with CDGX Tokens
+
+### Objective
+To reward Data Analytics Specialists for providing high-quality insights and analyses, enhancing the value of the platform.
+
+### Incentive Structure
+- **Quality Insight Bonus:** Specialists who contribute insights that are rated highly for their quality and impact will receive 120 CDGX tokens per approved insight.
+- **Platform Privilege Enhancements:** Exceptional contributors will gain access to advanced platform features, early beta testing opportunities, and exclusive community events.
+- **Public Recognition:** Top contributors each quarter will be featured in platform communications, such as newsletters or social media, acknowledging their expertise and contributions
+- **Community Contributor Award:** Specialists who consistently provide constructive feedback and support to others will receive 90 CDGX tokens per month.
+- **Collaboration Bonus:** For leading collaborative projects or initiatives within the community, a bonus of x CDGX tokens will be awarded per project.
 
