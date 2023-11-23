@@ -1,3 +1,4 @@
+![Alt text](Assets/6..png)
 
 
 # 1. Incentive Mechanisms for LLM Chat and Data Search with CDGX Tokens
