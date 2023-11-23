@@ -45,14 +45,18 @@ To reward Data Analytics Specialists for providing high-quality insights and ana
 
 ---
 
-# Incentive Mechanisms for Engagement
-
+# 4. General Incentive Mechanisms for Engagement
 
 
 ### Objective
-To distribute CDGX tokens based on active participation in the platform, including data contribution, analysis, and community engagement.
+To distribute CDGX tokens based on active participation in the platform, including data contribution, analysis, staking and community engagement.
 
-### Incentive Structure
+- **Staking Rewards:** Users staking their CDGX tokens in data pools will earn a percentage of transaction fees from the pool, incentivizing long-term holding and investment in the platform's data economy.
+- **Liquidity Provider Incentives:** Users providing liquidity to CDGX token pairs on decentralized exchanges will receive a proportion of trading fees as a reward.
+
+- **Marketplace Creator Reward:** Users who create and maintain successful data marketplaces on the platform will receive a monthly reward of 300 CDGX tokens, based on marketplace activity and user engagement.
+- **Liquidity Mining:** Participants providing liquidity to data asset pools will be rewarded with CDGX tokens proportional to their contribution to the pool.
+
 - **Holding Milestone Rewards:** Users holding CDGX tokens for more than 6 months without selling will receive a 5% bonus in tokens based on their average holding.
 - **Voting Rights Enhancement:** Token holders for more than a year will receive double voting rights in platform governance decisions.
 - **Revenue Sharing Program:** Users holding tokens for over 18 months will be eligible for a share in the platform's annual revenue, distributed as a percentage of their total token holding.
