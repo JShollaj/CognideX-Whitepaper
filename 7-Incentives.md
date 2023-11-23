@@ -1,3 +1,5 @@
+![Alt text](<Assets/Cognidex White Large.png>)
+
 # 1. Incentive Mechanisms for LLM Chat and Data Search with CDGX Tokens
 
 This document outlines the specific incentive mechanisms for enhancing user interaction with the Large Language Model (LLM) Chat and Data Search on the CognideX platform. Rewards are given in CDGX tokens, the official currency of the platform.
