@@ -37,10 +37,10 @@ To reward users for contributing high-quality and unique data, encouraging a hig
 To reward Data Analytics Specialists for providing high-quality insights and analyses, enhancing the value of the platform.
 
 ### Incentive Structure
-- **Quality Insight Bonus:** Specialists who contribute insights that are rated highly for their quality and impact will receive 120 CDGX tokens per approved insight.
+- **Quality Insight Bonus:** Specialists who contribute insights that are rated highly for their quality and impact will receive x CDGX tokens per approved insight.
 - **Platform Privilege Enhancements:** Exceptional contributors will gain access to advanced platform features, early beta testing opportunities, and exclusive community events.
 - **Public Recognition:** Top contributors each quarter will be featured in platform communications, such as newsletters or social media, acknowledging their expertise and contributions
-- **Community Contributor Award:** Specialists who consistently provide constructive feedback and support to others will receive 90 CDGX tokens per month.
+- **Community Contributor Award:** Specialists who consistently provide constructive feedback and support to others will receive x CDGX tokens per month.
 - **Collaboration Bonus:** For leading collaborative projects or initiatives within the community, a bonus of x CDGX tokens will be awarded per project.
 
 ---
@@ -54,7 +54,7 @@ To distribute CDGX tokens based on active participation in the platform, includi
 - **Staking Rewards:** Users staking their CDGX tokens in data pools will earn a percentage of transaction fees from the pool, incentivizing long-term holding and investment in the platform's data economy.
 - **Liquidity Provider Incentives:** Users providing liquidity to CDGX token pairs on decentralized exchanges will receive a proportion of trading fees as a reward.
 
-- **Marketplace Creator Reward:** Users who create and maintain successful data marketplaces on the platform will receive a monthly reward of 300 CDGX tokens, based on marketplace activity and user engagement.
+- **Marketplace Creator Reward:** Users who create and maintain successful data marketplaces on the platform will receive a monthly reward of x CDGX tokens, based on marketplace activity and user engagement.
 - **Liquidity Mining:** Participants providing liquidity to data asset pools will be rewarded with CDGX tokens proportional to their contribution to the pool.
 
 - **Holding Milestone Rewards:** Users holding CDGX tokens for more than 6 months without selling will receive a 5% bonus in tokens based on their average holding.
