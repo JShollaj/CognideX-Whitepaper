@@ -1,4 +1,4 @@
-
+![Alt text](Assets/3..png)
 
 # Earn Through Contributing Insights
 
