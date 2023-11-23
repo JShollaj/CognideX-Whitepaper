@@ -38,7 +38,7 @@ All enhanced by Algorand Blockchain, Proprietary Data Watermarking & Empowering 
    - Plans for future development and potential adjustments to the tokenomics model.
 
 
-7=8. [Incentives](7-Incentives.md)
+8. [Incentives](7-Incentives.md)
    - Incentives for enhancing the adoption of CognideX
 ---
 
