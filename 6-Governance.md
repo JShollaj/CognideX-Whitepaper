@@ -1,4 +1,4 @@
-
+![Alt text](Assets/5..png)
 
 # Governance Model for CognideX
 

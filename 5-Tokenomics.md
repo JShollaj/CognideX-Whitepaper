@@ -1,3 +1,5 @@
+![Alt text](Assets/4..png)
+
 # Tokenomics Documentation: Fair Pricing and Distribution Model
 
 ## Overview

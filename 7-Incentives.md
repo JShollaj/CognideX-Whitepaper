@@ -1,4 +1,4 @@
-![Alt text](<Assets/Cognidex White Large.png>)
+
 
 # 1. Incentive Mechanisms for LLM Chat and Data Search with CDGX Tokens
 
