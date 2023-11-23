@@ -1,3 +1,5 @@
+![Alt text](Assets/1..png)
+
 ## 1. Introduction
 
 ### Overview of the CognideX Marketplace and its Unique Selling Points
