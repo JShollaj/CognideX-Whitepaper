@@ -8,6 +8,8 @@ The process is simple. Anyone can apply through a standard process to contribute
 
 If approved, the Data Analytics Contributor can then have access, for a certain limited time and amount of resources access data from the data pool and perform manipulations (reports, dashboards or cleaning) and then output to the analytics section of data pool.
 
+The contributor will be able to modify approved data points or collections.
+
 Tokens will then we distributed accordingly (we will dive in deeper on that throughout the tokenomics section).
 
 Below we have a high level system architecture representation:

@@ -4,11 +4,13 @@
 
 ## Overview
 
-CognideX's tokenomics is designed to incentivize the fair monetization of data contributions while maintaining a balanced and reasonable marketplace. This document outlines the procedures for setting data prices, aggregating contributions, determining the final sale price, and distributing proceeds among contributors.
+CognideX's Tokenomics is designed to incentivize the fair monetization of data contributions while maintaining a balanced and reasonable marketplace. This document outlines the procedures for setting data prices, aggregating contributions, determining the final sale price, and distributing proceeds among contributors.
 
 ## Data Contribution and Preliminary Valuation
 
 Contributors upload their datasets to the platform, setting their desired price tags based on personal valuation. An approved analyst then aggregates these datasets and performs a detailed analysis to suggest a bundled value for the insights derived from the collective data.
+
+(Note: The examples are completely hypothetical. We need to replace all with real Tokenomics.)
 
 ## Establishing Price Reasonability
 

@@ -1,6 +1,6 @@
 ## 2. Find Any Data Through Advanced LLM
 
-Our search model assistant includes a unique integration of latest frameworks such as LangChain, Vector Database and AWS scalable architecture. Below we have a high level overview of our architecture:
+Our search model assistant includes a unique integration of latest frameworks such as LangChain, Vector Database and AWS scalable architecture which will later on be complemented through smart contracts. Below we have a high level overview of our architecture:
 
 ![Alt text](<Assets/Smart Assistant Architecture.jpg>)
 

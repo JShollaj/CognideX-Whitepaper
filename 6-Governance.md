@@ -12,7 +12,7 @@ The governance of CognideX is a comprehensive framework designed to empower its 
   
 - **Data Contributors and Analysts:** These users have a vested interest in the platform's operations and are encouraged to participate in governance to ensure that their needs and challenges are addressed.
   
-- **Core Development Team:** Responsible for implementing changes approved by the community, maintaining the platform's technical infrastructure, and acting as guardians of the platform's vision and mission.
+- **Core Development Team:** Responsible for implementing changes approved by the community, maintaining the platform's technical infrastructure, and acting as guardians of the platform's vision and mission. Image here DAO.
 
 ### Governance Processes
 

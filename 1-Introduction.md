@@ -9,7 +9,7 @@ CognideX is envisioned as a transformative decentralized data marketplace, uniqu
 
 ---
 
-### USP: Why CognideX is the Future of the Data Economy:
+### Unique Selling Point: Why CognideX is the Future of the Data Economy:
 
 1. **Decentralization with Algorand Blockchain Integration:**
    - CognideX harnesses the power of the Algorand blockchain, ensuring every transaction is immutable and transparent. This integration adds a layer of security and trust, allowing for verifiable user/data verification and assistance in generating insights.

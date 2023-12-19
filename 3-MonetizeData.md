@@ -2,7 +2,7 @@
 
 # Monetize Your Personal Data
 
-On a high level, we encourage and teach users how they can get access and upload data from big platforms they use on the daily basis and monetize their data. We provide necessary research and price benchmarks to inform rates through which they can expect to monetize their data based on their platform.
+We will encourage and teach users how they can get access and upload data from big platforms they use on the daily basis and monetize their data. We provide necessary research and price benchmarks to inform rates through which they can expect to monetize their data based on their platform.
 
    There are 2 ways in which users can monetize their data:
       
