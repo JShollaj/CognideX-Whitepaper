@@ -51,21 +51,21 @@ To access the latest version of our GPT, [click here](https://chat.openai.com/g/
 
 
 ---
-## Algorand Smart Contract Integration
+## Polkadot Smart Contract Integration
 
 ![Alt text](Assets/Algorand_Inc_Logo.jpg)
 
-To enhance the functionality and security of our data transactions, we are seamlessly integrating Algorand smart contracts within our LLM architecture, specifically in the transaction flow facilitated by the LLM Smart Assistant.
+To enhance the functionality and security of our data transactions, we are seamlessly integrating Polkadot smart contracts within our LLM architecture, specifically in the transaction flow facilitated by the LLM Smart Assistant.
 
 ### Current Integration Steps:
 
-1. **Smart Contract Logic:** Developing and deploying Algorand smart contracts to handle transaction logic, including data access control externally or internally.
+1. **Smart Contract Logic:** Developing and deploying Polkadot smart contracts to handle transaction logic, including data access control externally or internally.
 
-2. **Langchain Interaction:** Updating AWS Lambda functions to interact with Algorand smart contracts, initiating and validating data transactions upon user requests processed by the LLM.
+2. **Langchain Interaction:** Updating AWS Lambda functions to interact with Polkadot smart contracts, initiating and validating data transactions upon user requests processed by the LLM.
 
-3. **Token Operations:** Incorporating Algorand Standard Assets (ASAs) for token management, aligning Langchain processes with ASA-related transactions.
+3. **Token Operations:** Incorporating Polkadot Standard Assets (ASAs) for token management, aligning Langchain processes with ASA-related transactions.
 
-4. **Data Security and Compliance:** Ensuring data integrity and access control by validating transactions with Algorand smart contracts before data delivery.
+4. **Data Security and Compliance:** Ensuring data integrity and access control by validating transactions with Polkadot smart contracts before data delivery.
 
 5. **API and User Interface:** Updating API Gateway and user interface components to reflect blockchain transaction capabilities and provide users with transaction status and wallet management options.
 
@@ -73,7 +73,7 @@ To enhance the functionality and security of our data transactions, we are seaml
 
 The abovementioned additions will enhance the search as it will provide immutable tracing and additional methods to manage wallet transactions while obtaining tokens for time, search and and interactions with our platform. 
 
-We will dive in deeper in specific ways through which our platfrom will integrate smart contracts and governance protocols aligned with Algorand vision.
+We will dive in deeper in specific ways through which our platfrom will integrate smart contracts and governance protocols aligned with Polkadot vision.
 
 To check in more detail how users can monetize their data check [the following page](3-MonetizeData.md) ⬅️
 
