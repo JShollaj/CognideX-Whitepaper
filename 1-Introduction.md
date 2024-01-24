@@ -5,14 +5,14 @@
 ### Overview of the CognideX Marketplace and its Unique Selling Points
 
 
-CognideX is envisioned as a transformative decentralized data marketplace, uniquely enhanced with the capabilities of Large Language Models (LLMs) and built on the Algorand blockchain platform. This platform is designed to revolutionize the way data is accessed, analyzed, and monetized, offering a comprehensive solution to the challenges faced in the current data market landscape.
+CognideX is envisioned as a transformative decentralized data marketplace, uniquely enhanced with the capabilities of Large Language Models (LLMs) and built on the Polkadot blockchain platform. This platform is designed to revolutionize the way data is accessed, analyzed, and monetized, offering a comprehensive solution to the challenges faced in the current data market landscape.
 
 ---
 
 ### Unique Selling Point: Why CognideX is the Future of the Data Economy:
 
-1. **Decentralization with Algorand Blockchain Integration:**
-   - CognideX harnesses the power of the Algorand blockchain, ensuring every transaction is immutable and transparent. This integration adds a layer of security and trust, allowing for verifiable user/data verification and assistance in generating insights.
+1. **Decentralization with Polkadot Blockchain Integration:**
+   - CognideX harnesses the power of the Polkadot blockchain, ensuring every transaction is immutable and transparent. This integration adds a layer of security and trust, allowing for verifiable user/data verification and assistance in generating insights.
 
 2. **Large Language Model (LLM) Enhanced Chat Navigation:**
    - The platform offers a state-of-the-art LLM chat interface, transforming the way users interact with the marketplace. This chat-driven interaction saves time and simplifies the user experience, making data search and transactions more efficient and user-friendly.
