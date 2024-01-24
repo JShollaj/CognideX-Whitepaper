@@ -40,10 +40,10 @@ Upon the successful sale of the aggregated dataset, proceeds are allocated as fo
 
 ## Example Case
 
-With a total of 10,000MB contributed and an initial combined price tag of 1,000,000 Algos, the process unfolds as follows:
+With a total of 10,000MB contributed and an initial combined price tag of 100,000 Dots, the process unfolds as follows:
 
 1. **Weighted Average Calculation:**
-   - The weighted average is computed as 100 Algos/MB, setting the stage for a reasonable price range.
+   - The weighted average is computed as 10 Dots/MB, setting the stage for a reasonable price range.
 
 2. **Price Adjustment:**
    - The analyst's suggested price is adjusted to the reasonable range's upper limit if necessary.
@@ -64,20 +64,20 @@ The tokenomics model is dynamic and governed by community consensus. Changes to 
 
 ### Data Listing
 
-- **Alice** lists 20MB of Netflix data at `100 Algos`.
-- **Bob** lists 3MB of Netflix data at `100,000 Algos` (outlier).
-- **Carl** lists 200MB of Netflix data at `1 Algo`.
-- **Dimitry** lists 10MB of Netflix data at `10 Algos`.
+- **Alice** lists 20MB of Netflix data at `10 Dots`.
+- **Bob** lists 3MB of Netflix data at `10,000 Dots` (outlier).
+- **Carl** lists 200MB of Netflix data at `10 Dots`.
+- **Dimitry** lists 10MB of Netflix data at `20 Dots`.
 - (Assuming a total of `1004` contributors, contributing a total of `10,000MB`.)
 
 ### Analyst's Aggregated Valuation
 
-- **Eve**, the data analyst, aggregates all data and proposes a valuation of `300,000 Algos` for the entire dataset.
+- **Eve**, the data analyst, aggregates all data and proposes a valuation of `50,000 Dots` for the entire dataset.
 
 ### Reasonable Price Range Establishment
 
-- A maximum price cap is determined at `150 Algos/MB` based on historical data and median pricing.
-- The weighted average price per MB is calculated to be `100 Algos/MB`.
+- A maximum price cap is determined at `10 Dots/MB` based on historical data and median pricing.
+- The weighted average price per MB is calculated to be `7 Dots/MB`.
 
 ### Community Voting
 
@@ -85,29 +85,30 @@ The tokenomics model is dynamic and governed by community consensus. Changes to 
 
 ### Final Price Determination
 
-- The weighted median price after community voting is established at `90 Algos/MB`.
+- The weighted median price after community voting is established at `9 Dots/MB`.
 
 ### Sale and Distribution of Proceeds
 
-- The dataset is sold at the price of `90 Algos/MB`.
-- Total Sale Amount: `10,000MB * 90 Algos/MB = 900,000 Algos`.
+- The dataset is sold at the price of `9 Dots/MB`.
+- Total Sale Amount: `10,000MB * 9 Dots/MB = 90,000 Dots`.
 
 ### Proceeds Distribution
 
 - **Platform Fee**: `10%` of the total sale amount.
-- **Net Proceeds for Distribution**: `90%` of the total sale amount.
+- **Net Proceeds for Distribution**: `85%` of the total sale amount.
+- **Analyst Rewards**: `5%` of the total sale amount.
 
 ### Contributors' Earnings Calculation
 
-- Alice's share: `(20MB / 10,000MB) * 810,000 Algos = 1,620 Algos`.
-- Carl's share: `(200MB / 10,000MB) * 810,000 Algos = 16,200 Algos`.
-- Dimitry's share: `(10MB / 10,000MB) * 810,000 Algos = 810 Algos`.
+- Alice's share: `(20MB / 10,000MB) * 76,500 Dots = 153 Dots`.
+- Carl's share: `(200MB / 10,000MB) * 76,500 Dots = 1,530 Dots`.
+- Dimitry's share: `(10MB / 10,000MB) * 76,500 Dots = 76.5 Dots`.
 - (Calculated proportionally for all other contributors.)
 
 ### Analyst Reward
 
 - Eve's reward: `5%` of the total sale amount.
-- Eve's reward calculation: `900,000 Algos * 5% = 45,000 Algos`.
+- Eve's reward calculation: `90,000 Dots * 5% = 4,500 Dots`.
 
 ### Governance and Adjustments
 
