@@ -53,7 +53,7 @@ To access the latest version of our GPT, [click here](https://chat.openai.com/g/
 ---
 ## Polkadot Smart Contract Integration
 
-![Alt text](Assets/Algorand_Inc_Logo.jpg)
+![Alt text](Assets/Polkadot_Logo.png)
 
 To enhance the functionality and security of our data transactions, we are seamlessly integrating Polkadot smart contracts within our LLM architecture, specifically in the transaction flow facilitated by the LLM Smart Assistant.
 
