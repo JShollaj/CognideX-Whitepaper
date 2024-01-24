@@ -1,13 +1,13 @@
 
 ![Alt text](<Assets/Cognidex White Large.png>)
 
-## **CognideX: A Decentralized Data Marketplace on Algorand**
+## **CognideX: A Decentralized Data Marketplace on Polkadot**
 
 CognideX is a one stop for all data exchange platform.
 
 Here users can find any data available on the web, they can upload & monetize their data with our help or sign up as a Data Analytics provider and add their insights from the data pool available. 
 
-All enhanced by Algorand Blockchain, Proprietary Data Watermarking & Empowering Tokenomics assisted by AI & driven by the community.
+All enhanced by Polkadot Blockchain, Proprietary Data Watermarking & Empowering Tokenomics assisted by AI & driven by the community.
 
 ---
 
@@ -30,8 +30,8 @@ All enhanced by Algorand Blockchain, Proprietary Data Watermarking & Empowering 
      - Explaining platform integration on a high level.
 
 6. [Deep Dive on Tokenomics](5-Tokenomics.md)
-   - Overview of Algorand's features relevant to the marketplace.
-   - Technical details of implementing the tokenomics on Algorand.
+   - Overview of Polkadot's features relevant to the marketplace.
+   - Technical details of implementing the tokenomics on Polkadot.
 
 7. [Governance and Future Developments](6-Governance.md)
    - Mechanisms for governance and decision-making within the marketplace.
