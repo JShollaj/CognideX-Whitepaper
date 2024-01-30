@@ -4,7 +4,33 @@
 
 ## Overview
 
-CognideX's Tokenomics is designed to incentivize the fair monetization of data contributions while maintaining a balanced and reasonable marketplace. This document outlines the procedures for setting data prices, aggregating contributions, determining the final sale price, and distributing proceeds among contributors.
+CognideX's Tokenomics is designed to incentivize the fair monetization of data contributions while maintaining a balanced and reasonable marketplace. This document outlines token distribution, burning strategies and procedures for setting data prices, aggregating contributions, determining the final sale price, and distributing proceeds among contributors.
+
+## Token Distribution and Burning Mechanism
+
+### Token Distribution
+
+A total supply of 100 million CGDX tokens will be made available and distributed among developers and users, with a certain portion kept as reserves. The distribution proposal is as follows:
+
+1. **ICO**: 10% of the supply is kept for conducting the Initial Coin Offering.
+
+2. **Developer Team**: 15% of total supply is allocated to the developer team. The tokens will be dispersed at a rate of 20%/year, i.e. a vesting period of 5 years, thus promoting a long-term commitment.
+
+3. **Community Incentives**: 35% of the total supply is available for user rewards, staking, and community engagement programs.
+
+4. **Marketing & Ecosystem Development**: 20% of total supply will be kept as reserves as a means of carrying out partnerships, advertising/marketing and community building.
+
+5. **Company Reserves**: 20% of total supply is kept as company’s reserve to tackle unforeseen expenses.
+
+### Burning Mechanism
+The following burning mechanisms are devised to help control market flooding and sudden drop of token value.
+
+1. **Transaction Fee**: A transaction fee is implemented (around 0.5-1%) on each transaction to help reduce the total supply of tokens in the market, helping in increasing the scarcity of tokens.
+
+2. **Buy Back**: Tokens can be bought back using the company’s revenue/profits in case the token price falls by more than 20% in a short period. This will help control market flooding and reduce token supply, potentially increasing the token’s value over time.
+
+3. **Lottery Mechanism**: Conducting regular lotteries on the platform with an entry fee of 10-20 tokens. Winners will be chosen randomly and awarded a portion of the lottery collected. Some portion will be burned to help increase scarcity of tokens.
+
 
 ## Data Contribution and Preliminary Valuation
 
