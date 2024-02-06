@@ -53,7 +53,13 @@ To reward Data Analytics Specialists for providing high-quality insights and ana
 ### Objective
 To distribute CDGX tokens based on active participation in the platform, including data contribution, analysis, staking and community engagement.
 
-- **New User Bonus:** New users who register themself on the platform will be rewarded 100 CGDX tokens as welcome bonus, encouraging new users to sign-up on & use the platform.
+- **New User Bonus:** Initial 100 users who register themself on the platform will be rewarded 100 CGDX / DOT tokens as welcome bonus, encouraging new users to sign-up on & use the platform. The next 400 users will get 10 CGDX / DOT tokens.
+
+- **Loyalty Tiers:** Users contributing consistenly, with over 20 datasets over the next 6 months get 100 CGDX / DOT tokens.
+
+- **Commitment Tiers:** Top 5 users yearly for number of datasets uploaded, will get 200 CGDX / DOT tokens.
+
+- **Specialized Rewards Tiers:** Users who upload data in higher demand, will be rewarded additional 10 CGDX / DOT tokens.
 
 - **Referral Bonus:** Users who successfully bring new customers to the platform will be rewarded 50 CGDX tokens, incentivizing people to strengthen the network and userbase.
 
